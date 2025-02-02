@@ -1,6 +1,6 @@
 # MouseDelayFix
 
-MouseDelayFix is a forge mod for Minecraft 1.8.x, 1.9.x and 1.10.x to fix the mouse delay bug introduced in Minecraft 1.8 (https://bugs.mojang.com/browse/MC-67665).
+MouseDelayFix is a forge mod for Minecraft 1.8.9 to fix the mouse delay bug introduced in Minecraft 1.89 (https://bugs.mojang.com/browse/MC-67665).
 
 ***
 
